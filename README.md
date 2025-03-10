@@ -26,4 +26,5 @@ python3 main.py <Relative path to a book>
 
 # Acknowledgments
 
-The project has been completed as part of [Boot.dev] curriculum.
+The project has been completed as part of [Boot.dev](https://boot.dev)
+curriculum.
