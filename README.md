@@ -24,6 +24,10 @@ git clone https://github.com/danace38/bookbot.git
 python3 main.py <Relative path to a book>
 ```
 
+If you would like to analyze a different book, you can upload any book in .txt file format to bookbot/books.
+
+* I recommend uploading books from [Project Gutenberg](https://www.gutenberg.org/)
+
 # Acknowledgments
 
 The project has been completed as part of [Boot.dev](https://boot.dev)
